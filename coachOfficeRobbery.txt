@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Added Config.ShowLootText (bottom-right loot counter) + bug fixes"}
+{"version":"1.0.2","news":"Added Config.SellCooldown, changed selling logic, added distance check to prevent cheaters from exploiting the script. Fixed qb-target error when using Config.DrawSprites in qb-target config"}
