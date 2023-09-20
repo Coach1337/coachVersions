@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Initial release"}
+{"version":"1.0.1","news":"❗️ Moved webhook to seperate file ❗️"}
