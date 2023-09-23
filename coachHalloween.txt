@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Another fixes in qb-interaction with non-synced pumpkins"}
+{"version":"1.0.4","news":"Fixed Discord Webhook logs"}
