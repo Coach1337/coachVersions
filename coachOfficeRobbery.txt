@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Added Config.UseOXLibMenu - alternative for normal UI menu, Added Config.CanHackMultipleTimes - whether player should be able to hack the security again after doing it once before"}
+{"version":"1.0.4","news":"Added Config.UseOXLibMenu - alternative for normal UI menu, Added Config.CanHackMultipleTimes - whether player should be able to hack the security again after doing it once before, Added required items to talk with peds"}
