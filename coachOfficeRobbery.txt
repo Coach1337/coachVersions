@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added Config.SellCooldown, changed selling logic, added distance check to prevent cheaters from exploiting the script. Fixed qb-target error when using Config.DrawSprites in qb-target config"}
+{"version":"1.0.3","news":"Added Config.UseOXLibMenu - alternative for normal UI menu, Added Config.CanHackMultipleTimes - whether player should be able to hack the security again after doing it once before"}
