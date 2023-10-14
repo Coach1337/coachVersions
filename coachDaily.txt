@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Fix database error"}
+{"version":"1.0.4","news":"Removed Config.MaxDays - it was kinda confusing"}
