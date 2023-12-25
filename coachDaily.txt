@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"Removed Config.MaxDays - it was kinda confusing"}
+{"version":"1.0.5","news":"Added option to create random rewards for each day. Script will now automatically handle changing the amount of configured days in config without having to clear the database"}
