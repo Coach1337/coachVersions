@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added support for washing items instead of account money"}
+{"version":"1.0.2","news":"Added support for washing items instead of account money. Added version check."}
