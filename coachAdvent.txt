@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added support for 2k resolution."}
+{"version":"1.0.3","news":"Rewritten to work in 2024. Script now automatically detects changes in Config and does not require clearing database table. Added multiple Config checks to debug issues. Changed image source since imgur is banned. Added ability to change target icon. Added console command to reset player advent calendar. Added ability to disable default QBCore item box notification when receiving an item."}
