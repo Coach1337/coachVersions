@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Added option to create random rewards for each day. Script will now automatically handle changing the amount of configured days in config without having to clear the database"}
+{"version":"1.0.6","news":"Changed image links because old ones stopped working. Update the script if images are not working for you."}
